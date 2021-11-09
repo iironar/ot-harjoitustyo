@@ -3,4 +3,4 @@ _OhjelmistoTekniikka **HarjoitusTyö**_
 	* [Gitlog.txt](https://github.com/iironar/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 	* [Komentorivi.txt](https://github.com/iironar/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
-muutos.exe haahaa
+muutos.exe haahaajeejee
