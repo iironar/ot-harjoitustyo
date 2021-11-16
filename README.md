@@ -1,6 +1,6 @@
 _OhjelmistoTekniikka **HarjoitusTyö**_
 
-[Tuntikirjanpito](https://github.com/iironar/ot-harjoitustyo/blob/master/Dokumentaatio/Tuntikirjanpito.md)
+[Työaikakirjanpito](https://github.com/iironar/ot-harjoitustyo/blob/master/Dokumentaatio/Tuntikirjanpito.md)
 
 * Viikko 1
 	* [Gitlog.txt](https://github.com/iironar/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
