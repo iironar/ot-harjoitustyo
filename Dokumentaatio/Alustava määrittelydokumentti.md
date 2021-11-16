@@ -4,7 +4,7 @@
 Sovelluksen tarkoituksena on olla viihdyttävä, nopea ja yksinkertainen miinaharava peli.
 
 ### Perusversion tarjoama toiminnallisuus
-Yksinkertainen miinaharava peli yhdellä vaikeustasolla, jossa ruudukon koko on 15x15 ja miinojen määrä on 70. Ruudukon kokoon ja miinojen määrään tulee todennäköisesti muutoksia toteutusvaiheessa. Luultuja miinaruutuja voidaan merkata lipuilla ja ruutuja painamalla katsotaan mitä ruudussa on. Jos pelaaja painaa ruudusta jossa on miina, pelaaja häviää pelin. Jos pelaaja painaa ruutua jossa ei ole miinaa, ruudussa on lukema kuinka monta miinaa tämän ruudun vieressä on. Kokonaan tyhjän ruudun painaminen avaa kaikki vierekkäiset tyhjät ruudut numeroituihin ruutuihin asti.
+Yksinkertainen miinaharava peli yhdellä vaikeustasolla, jossa ruudukon koko on 15x15 ja miinojen määrä on 70. Ruudukon kokoon ja miinojen määrään tulee todennäköisesti muutoksia toteutusvaiheessa. Luultuja miinaruutuja voidaan merkata ja ruutuja painamalla katsotaan mitä ruudussa on. Jos pelaaja painaa ruudusta jossa on miina, pelaaja häviää pelin. Jos pelaaja painaa ruutua jossa ei ole miinaa, ruudussa on lukema kuinka monta miinaa tämän ruudun vieressä on. Kokonaan tyhjän ruudun painaminen avaa kaikki vierekkäiset tyhjät ruudut numeroituihin ruutuihin asti.
 
 
 ### Jatkokehitysideoita
