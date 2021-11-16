@@ -5,6 +5,6 @@ _OhjelmistoTekniikka **HarjoitusTyö**_
 
 
 * Viikko 2
-	* [Alustava määrittelydokumentti] (https://github.com/iironar/ot-harjoitustyo/blob/master/M%C3%A4%C3%A4rittelydokumentti.md)
+	* [Alustava määrittelydokumentti](https://github.com/iironar/ot-harjoitustyo/blob/master/M%C3%A4%C3%A4rittelydokumentti.md)
 
 
