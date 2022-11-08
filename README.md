@@ -1,11 +1,11 @@
-#Iso otsikko
+# Iso otsikko
 	***kivoja teksteja***
 
-##Vahan pienempi
+## Vahan pienempi
 	~~Ei jarkevaa tekstia~~, **lihavoitu teksti**
 
 
-###Pistetaan tanne kursivoitua tekstia
+### Pistetaan tanne kursivoitua tekstia
 
 	*Kursivoidut tekstit*
 	
