@@ -1,0 +1,93 @@
+commit 17734b2e7854f99b2729a7e6628294c2b3d5c0f3 (HEAD -> master)
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 14:17:47 2022 +0200
+
+poistettiin file1 ja uudelleennimettiin file2 -> file22
+tiedostoja/file2             | 0 
+tiedostoja/{file1 => file22} | 0 
+2 files changed, 0 insertions(+), 0 deletions(-)
+
+
+commit 941337328142b28d1779542c670c65429d2e87f9
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 14:12:57 2022 +0200
+luotiin file1,2,3
+tiedostoja/file1 | 0
+tiedostoja/file2 | 0
+tiedostoja/file3 | 0
+3 files changed, 0 insertions(+), 0 deletions(-)
+
+
+commit bfe8ee05053c3d441aec2a8adcf782b2cd723069
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 14:09:10 2022 +0200
+muutettiin eka ja kolmas tiedostojen sisältöä
+eka.txt    | 2 +-
+kolmas.txt | 1 + 
+2 files changed, 2 insertions(+), 1 deletion(-)
+
+
+commit 21207a3568d15b8948bad85ba61815bde983c0d5
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 14:07:48 2022 +0200
+uudelleen nimettiin tiedosto.txt --> eka.txt
+tiedosto.txt => eka.txt | 0
+1 file changed, 0 insertions(+), 0 deletions(-)
+
+
+commit aa370cc10f2036d6040e32230b4655d79f3028b2
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 14:06:26 2022 +0200 
+poistettiin toinen.txt
+toinen.txt | 1 -
+1 file changed, 1 deletion(-)
+
+
+commit f46ab7e96c8128e2d027af7941af398d85bf5245
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 14:05:08 2022 +0200
+lisäys sisältöön
+ tiedosto.txt | 7 +++++++
+1 file changed, 7 insertions(+)
+
+
+commit d2a633e195c61d81a9d9f1fa13791996b71ca51e
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 14:02:40 2022 +0200
+lisäys 
+stuff/jokintiedosto.txt | 0 
+1 file changed, 0 insertions(+), 0 deletions(-)
+
+
+commit b06c42dbbe0b6718fcdcd8930de17e0d3a1c898b
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 13:56:45 2022 +0200
+muutos sisältöön
+kolmas.txt | 1 +
+toinen.txt | 1 + 
+2 files changed, 2 insertions(+) 
+
+
+commit a793c457cc7012b13733cf382bc8d310d0cab883
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 13:56:11 2022 +0200 
+luotiin uusi tiedosto
+kolmas.txt | 0 
+1 file changed, 0 insertions(+), 0 deletions(-)
+
+
+commit 0aed30185bfc1c7858d9a2d1ff5d40b39cd04997
+Author: niiro <iiro.narvanen@gmail.com>
+Date:   Tue Nov 8 13:54:51 2022 +0200
+muutos ja lisäys
+tiedosto.txt | 1 +
+toinen.txt   | 0 
+2 files changed, 1 insertion(+)
+
+
+commit 0b87358362ea0494234206ad728ee3e5450a7fd5
+Author: niiro <iiro.narvanen@gmail.com> 
+Date:   Tue Nov 8 13:52:24 2022 +0200
+tiedosto.txt luotu
+tiedosto.txt | 0
+1 file changed, 0 insertions(+), 0 deletions(-)  
