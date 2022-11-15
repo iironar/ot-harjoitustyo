@@ -1,5 +1,5 @@
 # Ohjelmistotekniikka, Harjoitustyö
-
+ [Vaatimusmäärittely](https://github.com/iironar/ot-harjoitustyo/blob/master/Dokumentaatio/vaatimusmaarittely.md)
 
 ## Tehtävät
 
@@ -10,3 +10,4 @@
 
 [Komentorivi.txt](https://github.com/iironar/ot-harjoitustyo/blob/master/laskarit/viikko1/Komentorivi.txt)
 ### Viikko2
+[Kuva testeistä](https://github.com/iironar/ot-harjoitustyo/blob/master/laskarit/viikko2/Kassapaate%20testit.PNG)
