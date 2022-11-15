@@ -1,5 +1,6 @@
 # Ohjelmistotekniikka, Harjoitustyö
  [Vaatimusmäärittely](https://github.com/iironar/ot-harjoitustyo/blob/master/Dokumentaatio/vaatimusmaarittely.md)
+ [Työaikakirjanpito](https://github.com/iironar/ot-harjoitustyo/blob/master/Dokumentaatio/Tyoaikakirjanpito.md)
 
 ## Tehtävät
 
